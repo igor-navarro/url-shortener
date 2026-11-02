@@ -1,5 +1,7 @@
 # URL Shortener
 
+Projeto em desenvolvimento: por enquanto os links ficam guardados em memória.
+
 API REST para encurtar URLs, feita com **FastAPI** (Python).
 
 Você envia uma URL longa, recebe um código curto e, ao acessar o link curto, é redirecionado para o endereço original.
